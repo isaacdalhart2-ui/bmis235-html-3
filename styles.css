@@ -58,3 +58,10 @@ footer {
     color: #5f6b7a;
     margin-top: 40px;
 }
+
+
+/* NEW STYLE 1: menu buttons grow slightly when you hover over them */
+nav img:hover {
+    transform: scale(1.08);
+    transition: transform 0.2s;
+}
