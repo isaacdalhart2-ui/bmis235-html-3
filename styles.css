@@ -75,3 +75,15 @@ h2 {
     padding-bottom: 6px;
     border-bottom: 3px solid #2ECC71;
 }
+
+
+/* NEW STYLE 3: brand colors on text links (Gonzaga and email links) */
+p a {
+    color: #1b8a4a;
+    font-weight: bold;
+}
+
+p a:hover {
+    color: #0D1B2A;
+    background-color: #2ECC71;
+}
